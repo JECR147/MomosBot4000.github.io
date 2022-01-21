@@ -1,8 +1,6 @@
 ## MomosBot4000
 
-You can use the [editor on GitHub](https://discord.com/api/oauth2/authorize?client_id=930529820310372372&permissions=8&scope=bot%20applications.commands) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [Bot](https://discord.com/api/oauth2/authorize?client_id=930529820310372372&permissions=8&scope=bot%20applications.commands) to maintain and preview the content for your website in Markdown files.
 
 ### TÉRMINOS DE SERVICIO
 # Contenido:
