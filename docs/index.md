@@ -2,7 +2,7 @@
 
 ## MomosBot4000
 
-# TÉRMINOS DE SERVICIO
+# TÉRMINOS DE SERVICIO.
 # Contenido:
 El contenido del MomosBot 4000, esta regulado para que no tenga imagenes que incumplan las normas de discord.
 # Uso del Bot:
@@ -25,7 +25,7 @@ Al usar el bot de discord para enviar memes, usted acepta que el bot no recopila
 
 
 
-# POLÍTICA DE PRIVACIDAD
+# POLÍTICA DE PRIVACIDAD.
 El Bot de Discord que envía imágenes y no recopila información del usuario.
 
 Este bot de Discord no recopila ninguna información del usuario. El bot simplemente envía imágenes según lo solicitado por el usuario. El desarrollador del bot no almacena ni recopila información del usuario.
