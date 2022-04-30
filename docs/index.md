@@ -31,5 +31,5 @@ El Bot de Discord que envía imágenes y no recopila información del usuario.
 Este bot de Discord no recopila ninguna información del usuario. El bot simplemente envía imágenes según lo solicitado por el usuario. El desarrollador del bot no almacena ni recopila información del usuario.
 
 <a href="https://top.gg/bot/930529820310372372">
-  <img src="https://top.gg/api/widget/servers/930529820310372372.svg?noavatar=true">
+  <img src="https://top.gg/api/widget/930529820310372372.svg">
 </a>
