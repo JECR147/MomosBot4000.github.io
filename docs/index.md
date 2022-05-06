@@ -1,6 +1,7 @@
 <a href="" class="btn">View Discord</a>
 
 ## MomosBot4000
+MomosBot 4000 es un Bot que crea momos, memes, shitpost de manera aleatoria
 
 # TÉRMINOS DE SERVICIO.
 # Contenido:
